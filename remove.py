@@ -12,7 +12,7 @@ print(dict)
 dict.popitem()
 print(dict)
 
-del keyword removes the item with the specified key name
+#del keyword removes the item with the specified key name
 
 dict = {
   "car": "Ford"
@@ -26,7 +26,7 @@ print(dict)
 
 del(dict)
 
-№clear() method empties the dictionary
+#clear() method empties the dictionary
 dict = {
   "car": "Ford"
   "year" : 2020
