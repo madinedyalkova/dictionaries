@@ -7,7 +7,7 @@ dict = {
 dict = ["color"] = "red"
 print(dict)
 
-# update() method will update the dictionary with the items from a given argument
+#update() method will update the dictionary with the items from a given argument
 
 dict = {
   "phone":"Iphone 15",
