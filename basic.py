@@ -33,8 +33,8 @@ dict = {
 #Python's perspective - dictionaries are defined as objects with the data type 'dict'.
 
 print(type(dict))
-#output - <class 'dict'>
 
+#output - <class 'dict'>
 #it is also possible to use the dict() constructor to make a dictionary.
 
 thisisdict = dict(name = "John", age = 15, country = "USA")
